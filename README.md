@@ -1,2 +1,2 @@
 # Java
-My Java codes
+My Java code
